@@ -1,0 +1,6 @@
+# Ignore pipenv or virtualenv folders
+.pipenv/
+.venv/
+venv/
+
+notes.txt
